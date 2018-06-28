@@ -35,7 +35,7 @@ xbee = XBee(serial_port, callback=stream.rcv_file_data)
 
 while True:
     try:
-        sleep(0.001)
+        sleep(1)
     except KeyboardInterrupt:
         break
 
