@@ -8,7 +8,7 @@ pip install XBee
 ```
 install struct:
 ```
-pip3 install construct
+pip install construct
 ```
 check ports and baudrate
 run:
